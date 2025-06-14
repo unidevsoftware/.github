@@ -100,7 +100,7 @@ To become Turkey's premier software developer community, providing a comprehensi
 **Professional Inquiries**
 
 📧 **Email:** contact@unidevsoftware.com  
-🌐 **Website:** [www.unidev.software](https://unidevsoftware.com/)  
+🌐 **Website:** [www.unidev.software](unidevsoftware.com)  
 
 ---
 
