@@ -64,10 +64,10 @@ To become Turkey's premier software developer community, providing a comprehensi
 
 ##  Community Statistics
 
-![GitHub followers](https://img.shields.io/github/followers/unidev-software?style=social)
-![GitHub stars](https://img.shields.io/github/stars/unidev-software?style=social)
+![GitHub followers](https://img.shields.io/github/followers/unidevsoftware?style=social)
+![GitHub stars](https://img.shields.io/github/stars/unidevsoftware?style=social)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unidev-software&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unidevsoftware&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
 
 ---
 
