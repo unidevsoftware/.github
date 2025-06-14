@@ -1,4 +1,4 @@
-# 🚀 Unıdev Software
+# 🚀 UNIDEV Software
 
 ![UNIDEV Banner](images/unidevbannergithub.png)
 
@@ -67,7 +67,7 @@ To become Turkey's premier software developer community, providing a comprehensi
 ![GitHub followers](https://img.shields.io/github/followers/unidevsoftware?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/unidevsoftware?style=social)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unidevsoftware&theme=tokyonight&hide_border=true&locale=tr&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unidevsoftware&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/unidevsoftware)
 
 ---
 
