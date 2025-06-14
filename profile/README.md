@@ -1,6 +1,6 @@
 # 🚀 Unıdev Software
 
-![Unidev Banner]("images\unidevbannergithub.png")
+![Unidev Banner](images/unidevbannergithub.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Yazılım+Geliştiriciler+Topluluğu;Faydalı+İçerikler+%26+Kaynaklar;Birlikte+Öğreniyoruz!)
 
