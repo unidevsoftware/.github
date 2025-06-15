@@ -1,8 +1,12 @@
 # 🚀 UNIDEV Software
 
-![UNIDEV Banner](images/unidevbannergithub.png)
+<div align="center">
+  <img src="images/unidevbannergithub.png" alt="UNIDEV Banner" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Software+Developers+Community;Useful+Content+%26+Resources;Learning+Together!)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Software+Developers+Community;Useful+Content+%26+Resources;Learning+Together!" alt="Typing SVG" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
+</div>
 
 ---
 
