@@ -1,7 +1,7 @@
 # 🚀 UNIDEV Software
 
 <div align="center">
-  <img src="images/unidevbannergithub.png" alt="UNIDEV Banner" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
+  <img src="https://github.com/unidevsoftware/unidevsoftware/blob/main/profile/images/unidevbannergithub.png?raw=true" alt="UNIDEV Banner" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@ To become Turkey's premier software developer community, providing a comprehensi
 **Professional Inquiries**
 
 📧 **Email:** contact@unidevsoftware.com  
-🌐 **Website:** [www.unidev.software](unidevsoftware.com)  
+🌐 **Website:** [www.unidevsoftware](unidevsoftware.com)  
 
 ---
 
