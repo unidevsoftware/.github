@@ -1,6 +1,6 @@
 # 🚀 UNIDEV Software
 
-![UNIDEV Banner](images/unidevbannergithub.png)
+![UNIDEV Banner](https://i.imgur.com/kUURlol.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Software+Developers+Community;Useful+Content+%26+Resources;Learning+Together!" alt="Typing SVG" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
